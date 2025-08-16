@@ -16,6 +16,7 @@ SRC_URI = " \
 	file://sophgo-add-reboot-shutdown-driver.patch \
 	file://sophgo-add-ethernet-driver.patch \
 	file://dts-exclude-memory-occupied-by-opensbi.patch \
+	file://add-remoteproc.patch \
 	file://milkv-duo_defconfig \
 	file://multi.its \
 "
